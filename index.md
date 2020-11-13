@@ -3,36 +3,22 @@
 You are here.  
 ![alt text](HighlightedMap.png)
 
-### East Harlem Statistics
+### Statistics & Demographics
 
 - **Population**: 115,340  
 - **Median Age**: 35.1  
 - **Median Household Income**: $34,016  
-- **Unemployment Rate**: 10.77%
-```markdown
-Syntax highlighted code block
+- **Unemployment Rate**: 10.77%  
+![alt text](EHrace.png)  
+![alt text](EHsex.png)  
 
-# Header 1
-## Header 2
-### Header 3
+### Living in East Harlem: A Brief Analysis
 
-- Bulleted
-- List
+one paragraph summarizing observations from HC3
 
-1. Numbered
-2. List
+### East Harlem Airbnb Data
+<dl>
+<iframe src="East Harlem Airbnb Listings Map.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alicetsai4/CSci127/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+a summary of your results from HC7 along with plot images
