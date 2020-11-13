@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to East Harlem.
 
-You can use the [editor on GitHub](https://github.com/alicetsai4/CSci127/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You are here.  
+![alt text](HighlightedMap.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### East Harlem Statistics
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- **Population**: 115,340  
+- **Median Age**: 35.1  
+- **Median Household Income**: $34,016  
+- **Unemployment Rate**: 10.77%
 ```markdown
 Syntax highlighted code block
 
