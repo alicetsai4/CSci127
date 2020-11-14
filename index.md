@@ -10,8 +10,7 @@ You are here.
 - **Median Household Income**: $34,016  
 - **Unemployment Rate**: 10.77%  
 
-![alt text](.png)  
-![alt text](EHsex.png)  
+![alt text](EHrace.png)  ![alt text](EHsex.png)  
 
 ### Living in East Harlem: A Brief Analysis
 
