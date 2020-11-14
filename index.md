@@ -1,4 +1,4 @@
-# Welcome to East Harlem.
+# Welcome to East Harlem
 
 You are here.  
 ![alt text](HighlightedMap.png)
@@ -9,8 +9,10 @@ You are here.
 - **Median Age**: 35.1  
 - **Median Household Income**: $34,016  
 - **Unemployment Rate**: 10.77%  
-![alt text](EHrace.png)  
-![alt text](EHsex.png)  
+<p float="left">
+  <img src="/EHrace.png" width="100" />
+  <img src="/EHsex.png" width="100" /> 
+</p>
 
 ### Living in East Harlem: A Brief Analysis
 
