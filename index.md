@@ -45,7 +45,7 @@ When comparing the East Harlem neighborhood to the Manhattan borough at large, t
   
 **_Figure 3. Bar graph of average minimum # of nights in East Harlem compared to Manhattan._**  
 In terms of the required length of stay, Airbnb’s in East Harlem have a lower average minimum number of nights compared to Airbnb’s in Manhattan. A lower minimum number of nights is likely more convenient or preferable for travelers who are renting these Airbnb’s, as those who are looking to go on a brief trip would have fewer restrictions when searching for a place to stay. The average minimum number of nights in East Harlem is 5.86, compared to 8.58 in Manhattan.  
-![alt text](EH vs Manhattan Avg Min # of Nights.png)  
+![alt text](EH vs Manhattan Avg Min Nights.png)  
   
   
 **_Figure 4. Bar graph of average reviews per month in East Harlem compared to Manhattan._**  
