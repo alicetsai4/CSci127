@@ -33,8 +33,7 @@ Let's take a look at how East Harlem fares on these 3 criteria.
 
 <dl>
 <iframe src="East Harlem Airbnb Listings Map.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</dl>
-**_Figure 1. Map of Airbnb listings in East Harlem._**  
+</dl>  **_Figure 1. Map of Airbnb listings in East Harlem._**  
 I generated a map of all of the Airbnb listings in East Harlem using the latitude and longitude values from NYC Open Data's 2019 Airbnb dataset. There is evidently a high density of Airbnb listings covering virtually every area of the East Harlem neighborhood, so travelers have many options to choose from depending on where in East Harlem they would like to stay and what kind of features or amenities they would prefer to have in an Airbnb.  
 
 
@@ -43,12 +42,12 @@ I generated a map of all of the Airbnb listings in East Harlem using the latitud
 When comparing the East Harlem neighborhood to the Manhattan borough at large, the average Airbnb price in East Harlem is considerably lower than that in Manhattan. The average price for an Airbnb in East Harlem is $133, whereas the average price for an Airbnb in Manhattan is $197. As mentioned previously, price is an important factor to consider when evaluating a neighborhood’s desirability. Thus, it is significant to note that East Harlem is a relatively affordable Airbnb option within the more expensive borough of Manhattan.  
 
 
-![alt text](EH vs Manhattan Avg Min # of Nights.png)  
+![alt text]("EH vs Manhattan Avg Min # of Nights.png")  
 **_Figure 3. Bar graph of average minimum # of nights in East Harlem compared to Manhattan._**  
 In terms of the required length of stay, Airbnb’s in East Harlem have a lower average minimum number of nights compared to Airbnb’s in Manhattan. A lower minimum number of nights is likely more convenient or preferable for travelers who are renting these Airbnb’s, as those who are looking to go on a brief trip would have fewer restrictions when searching for a place to stay. The average minimum number of nights in East Harlem is 5.86, compared to 8.58 in Manhattan.  
 
 
-![alt text](EH vs Manhattan Avg Min # of Nights.png)  
+![alt text]("EH vs Manhattan Avg Min # of Nights.png")  
 **_Figure 4. Bar graph of average reviews per month in East Harlem compared to Manhattan._**  
 On average, Airbnb’s in East Harlem have more reviews per month than Airbnb’s in Manhattan. Although average reviews per month is not a perfect metric of the popularity or desirability of an Airbnb listing, this data shows that more travelers were booking Airbnb’s in East Harlem and leaving reviews each month, which suggests that East Harlem is a relatively popular Airbnb neighborhood choice within Manhattan. This was consistent with what I had predicted based on the data from the previous two figures: lower average price and lower average minimum number of nights are two features that might make Airbnb’s in East Harlem a more appealing option compared to Airbnb’s in other areas of Manhattan.  
 
