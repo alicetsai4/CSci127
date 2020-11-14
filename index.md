@@ -55,4 +55,4 @@ On average, Airbnb’s in East Harlem have more reviews per month than Airbnb’
   
 **_Figure 5. Pie chart of Airbnb room types in East Harlem._**  
 In terms of safety, while the Airbnb dataset did not contain any information about neighborhood crime rates, another major safety concern at this time is the COVID-19 pandemic. Many travelers now would likely prefer to stay in an Airbnb where they are able to isolate from any strangers and maintain social distance in order to reduce their chances of contracting coronavirus. Therefore, it is ideal that a large proportion of Airbnb’s in East Harlem are either an entire home/apartment or a private room, whereas only 4% are shared rooms. This information is especially important for travelers in 2020 due to our current circumstances, but even in 2019 when this data was collected, many travelers would probably rather have their own space and privacy than share a room with their Airbnb host, so this is a significant feature of Airbnb’s in East Harlem to note regardless.  
-![alt text](East Harlem Room Types.png)  
+![alt text](East Harlem Room Type.png)  
