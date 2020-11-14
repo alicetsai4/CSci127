@@ -1,4 +1,4 @@
-# Welcome to East Harlem
+# Welcome to East Harlem.
 
 You are here.  
 ![alt text](HighlightedMap.png)
@@ -11,6 +11,7 @@ You are here.
 - **Unemployment Rate**: 10.77%  
 
 ![alt text](EHrace.png)  
+
 ![alt text](EHsex.png)  
 
 ### Living in East Harlem: A Brief Analysis
