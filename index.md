@@ -9,10 +9,8 @@ You are here.
 - **Median Age**: 35.1  
 - **Median Household Income**: $34,016  
 - **Unemployment Rate**: 10.77%  
-<p float="left">
-  <img src="/EHrace.png" width="100" />
-  <img src="/EHsex.png" width="100" /> 
-</p>
+
+![alt text](.png)  ![alt text](EHsex.png)  
 
 ### Living in East Harlem: A Brief Analysis
 
