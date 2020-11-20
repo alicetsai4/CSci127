@@ -1,4 +1,5 @@
-# Welcome to East Harlem.
+# Welcome to East Harlem.  
+![alt text](East Harlem Image.jpg)  
 
 _You are here._  
 ![alt text](HighlightedMap.png)
